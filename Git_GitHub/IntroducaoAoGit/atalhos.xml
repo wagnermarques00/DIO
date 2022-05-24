@@ -1,0 +1,48 @@
+<Arquivos e Pastas>
+	<Criar diretório>
+		Windows -> mkdir
+		Linux -> mkdir
+	</Criar diretório>
+	<Lista arquivos e pastas do diretório>
+		Windows -> dir
+		Linux -> ls
+	</Lista as pastas do diretório>
+	<Alterar diretório>
+		Windows -> cd
+		Linux -> cd
+	</Alterar diretório>
+	<Retroceder um nível de navegação>
+		Windows -> cd ..
+		Linux -> cd ..
+	</Retroceder um nível de navegação>
+	<Escrever algo>
+		Windows -> Echo <O que quiser escrever> > <Saída do arquivo>
+		Linux -> Echo <O que quiser escrever> > <Saída do arquivo>
+	</Escrever algo>
+	<Deletar>
+		<Deletar arquivos>
+			Windows -> del <Arquivo que deseja deletar>
+			Linux -> del < Arquivo que deseja deletar>
+		</Deletar arquivos>
+		<Deletar diretórios>
+			Windows -> rmdir <Diretório que deseja deletar> /S /Q 
+			Linux -> rm -rf <Diretório que deseja deletar>
+		</Deletar diretórios>
+	</Deletar>
+</Arquivos e Pastas>
+<Diversos>
+	<Limpar o Terminal>
+		Windows -> cls
+		Linux -> clear
+	</Limpar o Terminal>
+</Diversos>
+<Atalhos do Teclado>
+	<Autocompletar>
+		Windows -> TAB
+		Linux -> TAB
+	</Autocompletar>
+	<Limpar tela>
+		Windows -> Não existe
+		Linux -> Ctrl + l
+	</Limpar tela>
+</Atalhos do Teclado>	
