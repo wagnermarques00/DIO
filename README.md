@@ -1,2 +1,2 @@
 # DIO
- Repositório para estudos na plataforma Digital Innovation one
+Repository for studies on the Digital Innovation one platform
