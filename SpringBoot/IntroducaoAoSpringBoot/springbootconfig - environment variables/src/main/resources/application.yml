@@ -1,0 +1,13 @@
+app:
+  message: This is the Primary Application Property for ${spring.application.name}
+
+server:
+  port: 8080
+
+#---spring.profiles.active=dev --> dev profile
+#---spring.profiles.active=prod --> prod profile
+spring:
+  application:
+    name: Spring Boot Configuration Project
+  profiles:
+    active: dev
